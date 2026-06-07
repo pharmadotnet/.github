@@ -4,6 +4,7 @@
 * **[web portal](https://web.pharmanet.bilsul.com)** : PharmaNet Seller Web Portal.
 * **[admin portal](https://admin.pharmanet.bilsul.com)** : PharmaNet Administrator Portal.
 * **[guide docs](https://pharmanet.bilsul.com/docs)** : documentation for seller and public users.
+* **[technical docs](https://pharmanet.bilsul.com/technical)** : technical documentation for teams and software engineers.
 
 
 ### Contribute
