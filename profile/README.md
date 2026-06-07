@@ -11,7 +11,7 @@
 
 Development is coordinated in [dicussions](https://github.com/orgs/pharmanet-org/discussions), PRs and issues
 
-### active features and bugs
+### bug and issue reports
 
 - [mobile app](https://docs.google.com/spreadsheets/d/1OVkbjpNKb15Lf5h0sX1WWVbsGU7NcO40fxZqy1on80Y/edit?gid=0#gid=0)
 - [seller portal](https://docs.google.com/spreadsheets/d/1c7doMqnWSQYOP_1cLnOhvdd-NSoF_qnxgOPGhjB8U8w/edit?gid=0#gid=0)
