@@ -3,7 +3,7 @@
 * **[mobile app](https://github.com/pharmanet-org/pharmanet/releases/latest)** : Pharma Network Mobile App.
 * **[web portal](https://web.pharmanet.bilsul.com)** : PharmaNet Seller Web Portal.
 * **[admin portal](https://admin.pharmanet.bilsul.com)** : PharmaNet Administrator Portal.
-* **[guide docs](https://pharmanet.bilsul.com/docs)** : documentation for seller and public users.
+* **[guide docs](https://docs.pharmanet.bilsul.com)** : documentation for seller and public users.
 * **[technical docs](https://pharmanet-org.github.io/technical)** : technical documentation for teams and software engineers.
 
 
