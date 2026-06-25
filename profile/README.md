@@ -2,7 +2,7 @@
 
 * **[mobile app](https://github.com/pharmanet-org/mobile-releases/releases/latest)** : Pharma Network Mobile App.
 * **[web portal](https://web.pharmanet.alyaherp.com)** : PharmaNet Seller Web Portal.
-* **[admin portal](https://admin.pharmanet.alyaerp.com)** : PharmaNet Administrator Portal.
+* **[admin portal](https://admin.pharmanet.alyaherp.com)** : PharmaNet Administrator Portal.
 * **[guide docs](https://docs.pharmanet.bilsul.com)** : documentation for seller and public users.
 * **[technical docs](https://pharmanet-org.github.io/technical)** : technical documentation for teams and software engineers.
 
